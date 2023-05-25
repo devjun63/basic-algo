@@ -32,7 +32,7 @@ public class QueueImpl {
     }
 
     public static void main(String[] args) {
-        StackImpl stack = new StackImpl();
-        stack.test();
+        QueueImpl queue = new QueueImpl();
+        queue.test();
     }
 }
